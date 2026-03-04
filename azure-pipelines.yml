@@ -6,7 +6,6 @@
 trigger:
 - main
 - develop
-- master
 
 
 pool:
