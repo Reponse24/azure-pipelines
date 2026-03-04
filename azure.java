@@ -4,9 +4,10 @@ import java.util.List;
 import java.util.Map;
 
 public class AzureDemo {
-
+ 
     private String serviceName;
     private String region;
+    
     private boolean isRunning;
 
     public AzureDemo(String serviceName, String region) {
