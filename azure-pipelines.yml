@@ -17,8 +17,4 @@ steps:
   inputs:
     rootFolderOrFile: '$(build.sourcesDirectory)'
     includeRootFolder: false
-- task: CopyFiles@2
-  inputs:
-    Contents: '**'
-    TargetFolder: 
 - task: PublishBuildArtifacts@1
