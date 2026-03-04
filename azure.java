@@ -6,6 +6,7 @@ import java.util.Map;
 public class AzureDemo {
  
     private String serviceName;
+ 
     private String region;
     
     private boolean isRunning;
